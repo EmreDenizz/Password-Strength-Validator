@@ -1,4 +1,7 @@
 <?php
+/**
+ * @author Emre Deniz <https://github.com/EmreDenizz>
+*/
 
 // Set the password
 $password = "";
